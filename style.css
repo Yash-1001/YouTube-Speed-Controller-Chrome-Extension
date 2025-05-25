@@ -1,0 +1,12 @@
+#yt-speed-dropdown {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  padding: 6px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
